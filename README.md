@@ -6,18 +6,12 @@
 
 ## 실행
 
-| **Action**           | **Details**                                                       |
-| -------------------- | ----------------------------------------------------------------- |
-| **Clone Repository** | `git clone <repository-url>`                                      |
-| **환경**             | - **Operating System:** macOS<br>- **Editor:** Visual Studio Code |
-| **컴파일 명령어**    | `g++ -std=c++17 -o main main.cpp \                                |
-
-CLASS/KERNEL/Kernel.cpp \
-CLASS/MEMORY/Memory.cpp \
-CLASS/PAGETABLE/PageTable.cpp \
-CLASS/PTE/PTE.cpp \
-CLASS/USER/User.cpp`|
-| **실행**             |`./main` |
+| **Action**           | **Details**                                                                                                                                                                 |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Clone Repository** | `git clone <repository-url>`                                                                                                                                                |
+| **환경**             | - **Operating System:** macOS<br>- **Editor:** Visual Studio Code                                                                                                           |
+| **컴파일 명령어**    | `bash<br>g++ -std=c++17 -o main main.cpp \ CLASS/KERNEL/Kernel.cpp \ CLASS/MEMORY/Memory.cpp \ CLASS/PAGETABLE/PageTable.cpp \ CLASS/PTE/PTE.cpp \ CLASS/USER/User.cpp<br>` |
+| **실행**             | `./main`                                                                                                                                                                    |
 
 ---
 
