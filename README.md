@@ -1,5 +1,26 @@
 # OS Term Project #2
 
+# 객체지향적으로 만들어본 Virtual Memory
+
+---
+
+## 실행
+
+| **Action**           | **Details**                                                       |
+| -------------------- | ----------------------------------------------------------------- |
+| **Clone Repository** | `git clone <repository-url>`                                      |
+| **환경**             | - **Operating System:** macOS<br>- **Editor:** Visual Studio Code |
+| **컴파일 명령어**    | `g++ -std=c++17 -o main main.cpp \                                |
+
+CLASS/KERNEL/Kernel.cpp \
+CLASS/MEMORY/Memory.cpp \
+CLASS/PAGETABLE/PageTable.cpp \
+CLASS/PTE/PTE.cpp \
+CLASS/USER/User.cpp`|
+| **실행**             |`./main` |
+
+---
+
 ## Project 2: Multi-process execution with Virtual Memory (Paging)
 
 **Programming assignment #2 due by Dec. 15. 2024 (11:59pm) KST**
