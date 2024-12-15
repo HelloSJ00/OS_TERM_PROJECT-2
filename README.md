@@ -8,7 +8,7 @@
 
 | **Action**           | **Details**                                                                                                                                                                 |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Clone Repository** | `git clone <repository-url>`                                                                                                                                                |
+| **Clone Repository** | `git clone https://github.com/HelloSJ00/OS_TERM_PROJECT-2.git`                                                                                                              |
 | **환경**             | - **Operating System:** macOS<br>- **Editor:** Visual Studio Code                                                                                                           |
 | **컴파일 명령어**    | `bash<br>g++ -std=c++17 -o main main.cpp \ CLASS/KERNEL/Kernel.cpp \ CLASS/MEMORY/Memory.cpp \ CLASS/PAGETABLE/PageTable.cpp \ CLASS/PTE/PTE.cpp \ CLASS/USER/User.cpp<br>` |
 | **실행**             | `./main`                                                                                                                                                                    |
