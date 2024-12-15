@@ -12,7 +12,7 @@
 #include "./CLASS/LRUCache/LRUCache.h"
 #define NUM_OF_PROCESSES 10 
 #define TIME_TICK 100 // 100ms
-#define MIN_EXECUTION_TIME 60000  // 최소 실행 시간 (60초)
+#define MIN_EXECUTION_TIME 600000  // 최소 실행 시간 (60초)
 
 using namespace std;
 
@@ -46,4 +46,8 @@ int main(){
       return 1;
     }
   }
+
+  kernel.run();
+
+  cout << " simulator end" << endl;
 }

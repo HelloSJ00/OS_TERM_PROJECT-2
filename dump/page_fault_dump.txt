@@ -1,0 +1,2384 @@
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 9 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 9 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 9 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 9 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 9 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 8 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 5 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 0 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 0 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 6 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 1 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 1 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 7 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 6 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45227, PageNumber: 6 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45228, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45229, PageNumber: 0 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45230, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45231, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45234, PageNumber: 2 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45235, PageNumber: 2 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45236, PageNumber: 0 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 7 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45227, PageNumber: 7 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45228, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45229, PageNumber: 1 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45230, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45231, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45232, PageNumber: 0 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 0 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45233, PageNumber: 0 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45234, PageNumber: 3 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45235, PageNumber: 3 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45236, PageNumber: 1 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 8 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45227, PageNumber: 8 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45228, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45229, PageNumber: 2 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45230, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45231, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45232, PageNumber: 1 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 1 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45233, PageNumber: 1 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45234, PageNumber: 4 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45235, PageNumber: 4 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45236, PageNumber: 2 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45227, PageNumber: 9 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45227, PageNumber: 9 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45228, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45228, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
+[PAGE FAULT] PID: 45229, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapOut Complete for PhysicalAddress: 0
+[PAGE FAULT] PID: 45229, PageNumber: 3 - swapIn Complete at PhysicalAddress: 0
+[LRU UPDATE] PhysicalAddress: 0 added to LRU Cache.
+[PAGE FAULT] PID: 45230, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapOut Complete for PhysicalAddress: 1
+[PAGE FAULT] PID: 45230, PageNumber: 4 - swapIn Complete at PhysicalAddress: 1
+[LRU UPDATE] PhysicalAddress: 1 added to LRU Cache.
+[PAGE FAULT] PID: 45231, PageNumber: 4 - Memory Full. Performing swapOut on PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapOut Complete for PhysicalAddress: 2
+[PAGE FAULT] PID: 45231, PageNumber: 4 - swapIn Complete at PhysicalAddress: 2
+[LRU UPDATE] PhysicalAddress: 2 added to LRU Cache.
+[PAGE FAULT] PID: 45232, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapOut Complete for PhysicalAddress: 3
+[PAGE FAULT] PID: 45232, PageNumber: 2 - swapIn Complete at PhysicalAddress: 3
+[LRU UPDATE] PhysicalAddress: 3 added to LRU Cache.
+[PAGE FAULT] PID: 45233, PageNumber: 2 - Memory Full. Performing swapOut on PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapOut Complete for PhysicalAddress: 4
+[PAGE FAULT] PID: 45233, PageNumber: 2 - swapIn Complete at PhysicalAddress: 4
+[LRU UPDATE] PhysicalAddress: 4 added to LRU Cache.
+[PAGE FAULT] PID: 45234, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapOut Complete for PhysicalAddress: 5
+[PAGE FAULT] PID: 45234, PageNumber: 5 - swapIn Complete at PhysicalAddress: 5
+[LRU UPDATE] PhysicalAddress: 5 added to LRU Cache.
+[PAGE FAULT] PID: 45235, PageNumber: 5 - Memory Full. Performing swapOut on PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapOut Complete for PhysicalAddress: 6
+[PAGE FAULT] PID: 45235, PageNumber: 5 - swapIn Complete at PhysicalAddress: 6
+[LRU UPDATE] PhysicalAddress: 6 added to LRU Cache.
+[PAGE FAULT] PID: 45236, PageNumber: 3 - Memory Full. Performing swapOut on PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapOut Complete for PhysicalAddress: 7
+[PAGE FAULT] PID: 45236, PageNumber: 3 - swapIn Complete at PhysicalAddress: 7
+[LRU UPDATE] PhysicalAddress: 7 added to LRU Cache.
