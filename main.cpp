@@ -7,52 +7,43 @@
 #include <csignal> 
 #include "./CLASS/USER/User.h"
 #include "./CLASS/MEMORY/Memory.h"
-#include "./CLASS/DISK/Disk.h"
 #include "./CLASS/MMU/MMU.h"
 #include "./CLASS/KERNEL/Kernel.h"
+#include "./CLASS/LRUCache/LRUCache.h"
 #define NUM_OF_PROCESSES 10 
 #define TIME_TICK 100 // 100ms
+#define MIN_EXECUTION_TIME 60000  // 최소 실행 시간 (60초)
+
 using namespace std;
 
 int main(){
+  // 커널 필드 생성
   Memory* memory = new Memory();
-  Disk* disk = new Disk();
-  MMU* mmu = new MMU();
-  // 커널
-  Kernel* kernel = new Kernel(memory,disk,mmu);
+  MMU* mmu = new MMU(memory);
+  LRUCache* Cache = new LRUCache();
 
-  vector<pid_t> child_pids;
+  // 커널 생성
+  Kernel kernel(memory,mmu,Cache);
 
   // 자식 프로세스 10개 생성
   for (int i = 0; i < NUM_OF_PROCESSES; ++i) {
     pid_t pid = fork(); // 자식 프로세스 생성
-    int cpu_burst = (rand() % 1501 + 4500) * TIME_TICK; // 45초 ~ 60초
+    int numOfPage = (rand()%8 + 3 ); // numOfPage 는 3~ 10 사이
     if (pid == 0) { // 자식 프로세스
       cout << "Child Process Created: PID = " << getpid()
-            << ", CPU Burst = " << cpu_burst;
-      User user(getpid(), cpu_burst); // User 객체 생성
+            << ",Num Of Page = " << numOfPage;
+      User user(getpid() , numOfPage ); // User 객체 생성
       user.receiveCommand();                  // 명령 수신 대기
       cout << "Child Process " << getpid() << " Terminating after receiveCommand.\n";
 
       exit(0);                                // 자식 프로세스 종료
     } else if (pid > 0) { // 부모 프로세스
-        child_pids.push_back(pid); // 자식 PID 저장
-        cout << "Kernel: add process to queue \n";
+        kernel.addChildPID(pid,numOfPage); // 자식 PID 저장
+        cout << "Kernel: add process \n";
 
     } else {
       cerr << "Fork failed.\n";
       return 1;
     }
   }
-
-  // 자식 프로세스 종료 대기
-  for (pid_t child_pid : child_pids) {
-      int status;
-      waitpid(child_pid, &status, 0); // 자식 프로세스 종료 확인
-      if (WIFEXITED(status)) {
-          cout << "Child Process PID = " << child_pid << " exited with status " << WEXITSTATUS(status) << ".\n";
-      }
-  }
-
-  cout << "All child processes have completed.\n";
 }
